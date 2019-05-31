@@ -1,0 +1,48 @@
+body{
+  margin:0; 
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.fondo{
+  background-image: url('../img/fondo.jpg') ;
+}
+
+.barra-superior{
+
+  height: 10rem;
+}
+
+.logo{
+  margin-left:15px !important;
+}
+
+.collection ,.collection-item{
+  border: none !important; 
+}
+
+.slogan{
+  font-family: 'Caveat', cursive;
+  font-size: 35px;
+}
+
+.responsive-img{
+  border: none !important; 
+}
+
+.color{
+  color:#040AF9 !important;
+
+}
+.tamaño{
+  width:200px!important;
+  margin-top: 5%;
+
+}
+
+.letra-form{
+  font-family: 'Abril Fatface', cursive;
+
+}
+
+.margen{
+  margin-bottom: 15px;
+}

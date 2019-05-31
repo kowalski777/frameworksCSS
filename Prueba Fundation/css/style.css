@@ -1,0 +1,35 @@
+body {
+  background-image: url('../img/fondo.jpeg') ;
+}
+div{
+  padding: 0 20px 0 20px;
+}
+
+#colormenu1{
+	background-color: #DBECF5;
+}
+
+#colormenu2{
+	background-color: #F8E1C6;
+}
+.fondo-container {
+background-image: url('../img/fondo-cont.png') ;
+}
+
+.sinmargen{
+  margin:0;
+  padding: 0;
+
+}
+.espaciado_li li{
+  margin-bottom: 5px;
+}
+
+borde{
+  border:1px solid;
+}
+
+ul li a{
+  color:#0024FF ;
+  font-size: 20px;
+}

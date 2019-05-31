@@ -1,0 +1,73 @@
+
+.logobar {
+  background-color: #05056A;
+  min-height: 10rem;
+}
+
+ul,li {
+  list-style-type: none;
+}
+
+ a{
+  text-decoration: none;
+}
+
+.social ul li, i {
+  color:white;
+}
+
+.barranav {
+  min-height: 5rem;
+ }
+
+.logo-img {
+  margin:30%;
+  border:1px solid #000000;
+  border-radius: 10px;
+}
+#img {
+  margin:2%;
+  border:1px solid #000000;
+  border-radius: 10px;
+}
+#img2 {
+  margin:2%;
+  border:1px solid #000000;
+  border-radius: 10px;
+}
+.redsocial{
+  margin: 40% 0 0 0;	
+}
+
+.barranav li{
+  margin-top: 2%;
+}
+ 
+.imagen{
+  width: 10%;
+}
+.textarea {
+  background-color: #C2EAFF;
+  
+}
+.no-gutters {
+  padding-bottom: 5px;
+  
+}
+.comentarios{
+	margin-top: 5px;
+}
+
+.margen-auto{
+	margin:auto;
+}
+
+.contenido{
+	margin-top: 12px;
+}
+.user i{
+  color: #3BBB92;
+}
+.marg-top{
+  margin: 2% 0 0 0%;
+}
